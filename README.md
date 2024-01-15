@@ -3,7 +3,7 @@ In the ever-evolving digital landscape, the gaming industry is recognised as a d
 
 This data analysis project embarks on a journey through the realm of video games, utilizing historical data to delve into the intricacies of revenue performance to rating prediction, with the aim to uncover patterns and insights that can potentially guide decision-making processes in this industry.
 
-# Directory Summary
+# Directory
 The folders in this repository are described as follows:
 
 - Data Sources (dataSources)
