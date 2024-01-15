@@ -7,7 +7,7 @@ This data analysis project embarks on a journey through the realm of video games
 The folders in this repository are described as follows:
 
 - Data Sources (dataSources)
-  - Our data sources are obtained from the reference list cited below.
+  - Data sources are obtained from the reference list cited below.
 - Data Wrangling & Transformation (dataProcessing)
   - This folder includes steps such as data prepatory work for text analytics, feature engineering, and exploratory data analysis.
 - Data Modelling (Modelling)
