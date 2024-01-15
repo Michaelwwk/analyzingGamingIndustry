@@ -7,7 +7,7 @@ This data analysis project embarks on a journey through the realm of video games
 The folders in this repository are described as follows:
 
 - Data Sources (dataSources)
-  - Our data sources are obtained from [here](https://www.kaggle.com/datasets/dahlia25/metacritic-video-game-comments) & [here](https://www.kaggle.com/datasets/mathurtanvi/video-game-sales-dataset).
+  - Our data sources are obtained from the reference list cited below.
 - Data Wrangling & Transformation (dataProcessing)
   - This folder includes steps such as data prepatory work for text analytics, feature engineering, and exploratory data analysis.
 - Data Modelling (Modelling)
